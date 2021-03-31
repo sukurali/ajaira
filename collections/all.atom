@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://upgradeanythingg.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://upgradeanythingg.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://upgradeanythingg.com/collections/all.atom"/>
+  <title>UpgradeAnything</title>
+  <updated>2021-03-06T14:03:25-06:00</updated>
+  <author>
+    <name>UpgradeAnything</name>
+  </author>
+  <entry>
+    <id>https://upgradeanythingg.com/products/6588358656149</id>
+    <published>2021-03-06T14:03:25-06:00</published>
+    <updated>2021-03-06T14:03:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://upgradeanythingg.com/products/upgrades"/>
+    <title>Upgrades</title>
+    <s:type>Service</s:type>
+    <s:vendor>UpgradeAnything</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/7299/8037/products/output-onlinepngtools_11.png?v=1616445908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpgradeAnything<br>
+        <strong>Type: </strong>Service<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Need a replacement? <a href="https://upgradeanything.myshopify.com/pages/contact-2"> Click Here</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://upgradeanythingg.com/products/6588358656149</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
